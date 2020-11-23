@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DollarToPeso</string>
+    <string name="title">Dollar to Peso Converter</string>
+    <string name="txtHint">Currency to Convert</string>
+    <string name="txtRadioButton1">Convert Dollar to Peso</string>
+    <string name="txtRadioButton2">Convert Peso to Dollar</string>
+    <string name="txtButton">Convert</string>
+</resources>
